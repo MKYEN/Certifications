@@ -1,2 +1,3 @@
-# AWS Certifications
-- AWS Certified Solutions Architect – Associate
+#### AWS Certifications
+
+![AWS Certified Solutions Architect – Associate](aws003.png)
